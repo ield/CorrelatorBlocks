@@ -1,0 +1,1 @@
+Controla los leds rgb con la frecuencia y cuando hay un reset

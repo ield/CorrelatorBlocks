@@ -1,0 +1,1 @@
+Controla los leds cuando hay un move y cuando hay un reset

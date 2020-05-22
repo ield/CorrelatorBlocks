@@ -1,0 +1,1 @@
+Multiplexa entre 3 relojes diferentes. Tiene un testbench que lo prueba.

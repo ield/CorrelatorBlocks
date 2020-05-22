@@ -1,0 +1,1 @@
+Converts the DC signal received from the XADC wizard into an AC signal
